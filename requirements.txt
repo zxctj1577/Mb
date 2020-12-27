@@ -8,8 +8,8 @@ commands.py
 FFmpegPCMAudio.py
 YoutubeDL.py
 asyncio.py
-time as t.py
-random as r.py
+time.py
+random.py
 urllib.request.py
 re.py
 json.py
