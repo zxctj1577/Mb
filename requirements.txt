@@ -1,10 +1,9 @@
 discord.py==0.16.12
-commands.py
 Bot.py
 get.py
 youtube_dl.py
 commands.py
- get.py
+get.py
 FFmpegPCMAudio.py
 YoutubeDL.py
 asyncio.py
