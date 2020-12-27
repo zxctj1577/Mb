@@ -1,0 +1,15 @@
+discord.py==0.16.12
+commands.py
+Bot.py
+get.py
+youtube_dl.py
+commands.py
+ get.py
+FFmpegPCMAudio.py
+YoutubeDL.py
+asyncio.py
+time as t.py
+random as r.py
+urllib.request.py
+re.py
+json.py
