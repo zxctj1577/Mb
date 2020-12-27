@@ -14,6 +14,8 @@ import urllib.request
 import re
 import json
 
+import os
+
 #discord.opus.load_opus()
 
 bot: Bot = commands.Bot(command_prefix='!')
@@ -387,5 +389,5 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-
-bot.run('NzkyMzMzNTA2OTY5NjAwMDAx.X-cMFA.2OgDy59XBOuwF_1rIteyGxXOdsg')
+access_token = os.environ["BOT_TOKEN"]
+bot.run(access_token)
